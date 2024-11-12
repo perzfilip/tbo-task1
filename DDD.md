@@ -4,7 +4,7 @@ W ramach zadania zostały zdefiniowane dwa konteksty:
 
 ## Diagram
 
-![[Pasted image 20241112184220.png]]
+![[diagram.png]]
 
 ## Zarządzanie kontem bankowym
 
